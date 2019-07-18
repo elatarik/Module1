@@ -1,0 +1,3 @@
+[submodule "sous-moduleA"]
+	path = sous-moduleA
+	url = https://github.com/elatarik/Module1.git
