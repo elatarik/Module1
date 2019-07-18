@@ -7,3 +7,6 @@
 [submodule "sous-moduleC"]
 	path = sous-moduleC
 	url = https://github.com/elatarik/Module1.git
+[submodule "sous-moduleD"]
+	path = sous-moduleD
+	url = https://github.com/elatarik/Module1.git
